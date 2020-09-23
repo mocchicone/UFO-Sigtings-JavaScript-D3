@@ -40,7 +40,6 @@ function search() {
       var cell = row.append("td");
       cell.text(ufo.comments);      
       }
-      else 
       });
     });
   console.log(inputValue)
